@@ -11,3 +11,5 @@
 
 # Additional ignored files
 .idea/
+.venv/
+.git/
