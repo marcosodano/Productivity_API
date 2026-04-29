@@ -13,3 +13,6 @@
 .idea/
 .venv/
 .git/
+__pycache__/
+1_productivity_api.egg-info/
+build/
