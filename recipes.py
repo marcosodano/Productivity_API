@@ -3,6 +3,7 @@ import os
 import shutil
 from fastapi import APIRouter, UploadFile, File, Form, HTTPException, Request
 from fastapi.responses import FileResponse, JSONResponse
+from database import conn, cursor
 
 
 
